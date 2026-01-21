@@ -1,0 +1,10 @@
+[project]
+name = "packt-ai-agents-with-langgraph"
+version = "0.1.0"
+requires-python = ">=3.12,<=3.13"
+dependencies = [
+    "google-genai>=1.59.0",
+    "langchain>=1.2.6",
+    "openai>=2.15.0",
+    "python-dotenv>=1.2.1",
+]
